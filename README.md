@@ -4,7 +4,7 @@ This line follower robot was created as a project that is part of a university c
 Creators:
 + Marios Tzatzos
 + Savvas Kotzamanidis
-+ Konstantinow Thomos
++ Konstantinos Thomos
 
 # Parts used
 - Rasberry Pi Pico W 2040
